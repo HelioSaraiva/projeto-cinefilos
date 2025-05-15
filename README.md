@@ -69,7 +69,7 @@ Aplicativo Android nativo desenvolvido em **Kotlin**, que consome a API do [The 
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seuusuario/projeto-cinefilos.git
+git clone https://github.com/HelioSaraiva/projeto-cinefilos.git
 ```
 
 2. Abra no **Android Studio (Arctic Fox ou superior)**
