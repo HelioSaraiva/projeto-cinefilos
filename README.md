@@ -124,19 +124,6 @@ Desenvolvido por **[Helio Buzato]** – apaixonado por Android, APIs e interface
 
 ---
 
-## 🚀 Funcionalidades
-
-✅ Login fictício (tela de entrada)  
-✅ Tela principal com:
-- Lista horizontal de **filmes em cartaz**
-- Lista horizontal de **filmes populares**
-✅ Navegação para tela de detalhes do filme  
-✅ Layout individual para cada item (imagem, título, nota)  
-✅ Design responsivo com Material Design 3  
-✅ Consumo de API via **Retrofit + Gson**
-
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 - [x] Kotlin  
