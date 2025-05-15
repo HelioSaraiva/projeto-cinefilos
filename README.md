@@ -1,18 +1,3 @@
-
-# 🎬 Projeto Cinéfilos
-
-Aplicativo Android nativo desenvolvido em **Kotlin**, que consome a API do [The Movie Database (TMDB)](https://www.themoviedb.org/documentation/api) para apresentar:
-
-- 🎥 **Filmes populares**
-- 🆕 **Filmes em lançamento**
-- 📱 Interface fluida, com **duas listas horizontais (RecyclerViews)**
-- 💡 Código limpo e pronto para evolução com MVVM, Room e mais
-
----
-
-## 📸 Preview do App
-
-> Adicione aqui prints ou GIFs (ex: tela principal e detalhes)
 # 🎬 Projeto Cinéfilos
 
 Aplicativo Android nativo desenvolvido em **Kotlin**, que consome a API do [The Movie Database (TMDB)](https://www.themoviedb.org/documentation/api) para apresentar:
