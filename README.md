@@ -93,8 +93,6 @@ const val TMDB_API_KEY = "SUA_CHAVE_AQUI"
 - Navegação com dados via `Intent.putExtra`
 - Estrutura modular, ideal para evolução com **MVVM**, **Room**, ou **Jetpack Compose**
 
-🎯 Indicado para vagas de **Desenvolvedor Android Júnior / Intermediário**
-
 ---
 
 ## 📈 Possíveis melhorias
